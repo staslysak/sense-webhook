@@ -1,0 +1,9 @@
+node_modules
+.vscode
+.cache
+.git
+.gitignore
+.prettierrc.yaml
+build
+README.md
+bin
